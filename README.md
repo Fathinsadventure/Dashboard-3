@@ -19,7 +19,7 @@ The report brings together headline HR metrics, breakdowns of attrition, employe
 | **Attrition Count** | The number of employees recorded as having left. | A count of departures, not a percentage. |
 | **Attrition Rate %** | The percentage of employees who left, according to the report's attrition-rate measure. | Useful for understanding turnover relative to the employee population. Confirm the measure's denominator and filter context before comparing it with other reports. |
 | **Average Age** | The average age of employees in the current filter context. | Gives a broad view of the workforce's age profile. |
-| **Avg Experience** | The average value of `YearsAtCompany` used by the report. | This field reflects **years at the company (tenure)**, not necessarily total professional experience. Consider renaming the card to **Average Years at Company** for clarity. |
+| **Avg Experience** | The average value of `YearsAtCompany` used by the report. | This field reflects **years at the company (tenure)** |
 
 
 **Charts and other visuals**
